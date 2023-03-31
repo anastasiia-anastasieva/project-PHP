@@ -1,0 +1,16 @@
+{
+    "name": "vendor/myproject",
+    "description": "My first project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Myproject\\": "MyProject/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anastasiia Anastasieva"
+        }
+    ],
+    "require": {}
+}
